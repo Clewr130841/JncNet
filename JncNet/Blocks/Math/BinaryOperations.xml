@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<operations>
+	<operation>
+		<name>Add</name>
+		<template>Result = ({code})(A + B);</template>
+	</operation>
+	<operation>
+		<name>Minus</name>
+		<template>Result = ({code})(A - B);</template>
+	</operation>
+	<operation>
+		<name>Multiply</name>
+		<template>Result = ({code})(A * B);</template>
+	</operation>
+	<operation>
+		<name>Devide</name>
+		<template>Result = ({code})(A / B);</template>
+	</operation>
+</operations>

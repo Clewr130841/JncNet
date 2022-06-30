@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<types>
+	<type>
+		<name>Int</name>
+		<code>int</code>
+	</type>
+	<type>
+		<name>UInt</name>
+		<code>uint</code>
+	</type>
+	<type>
+		<name>Long</name>
+		<code>long</code>
+	</type>
+	<type>
+		<name>ULong</name>
+		<code>ulong</code>
+	</type>
+	<type>
+		<name>Double</name>
+		<code>double</code>
+	</type>
+	<type>
+		<name>Decimal</name>
+		<code>decimal</code>
+	</type>
+	<type>
+		<name>Byte</name>
+		<code>byte</code>
+	</type>
+	<type>
+		<name>Single</name>
+		<code>float</code>
+	</type>
+</types>

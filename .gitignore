@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/JncNet/.vs/JncNet/v17
+/JncNet/obj
+/JncNet/.vs/JncNet/DesignTimeBuild
